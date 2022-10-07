@@ -5,9 +5,10 @@ avatar_filename: img_2783.jpeg
 bio: My research interests include computer vision, surgical navigation, deep
   learning, machine learning.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Medical Image Processing
+  - Surgical Navigation
+  - Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
