@@ -28,10 +28,10 @@ education:
   courses:
     - course: PhD in Electrical and Computer Engineering
       institution: University of Iowa
-      year: 2012
+      year: 2024
     - course: BSc in Applied Physics
       institution: University of Science and Technology of China
-      year: 2017
+      year: 2019
 superuser: true
 user_groups:
   - University of Iowa
