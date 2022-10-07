@@ -1,7 +1,7 @@
 ---
 title: Xingxing Liu (刘醒醒)
 role: Ph.D. Student at University of Iowa
-avatar_filename: img_2783.jpeg
+avatar_filename: ""
 bio: My research interests include computer vision, surgical navigation, deep
   learning, machine learning.
 interests:
