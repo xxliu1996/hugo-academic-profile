@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/xingxing-liu-5360a2169/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Iowa
+    url: https://uiowa.edu/
 education:
   courses:
     - course: PhD in Electrical and Computer Engineering
@@ -33,10 +33,12 @@ education:
       institution: University of Science and Technology of China
       year: 2017
 superuser: true
+user_groups:
+  - University of Iowa
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
-email: ""
+email: xingxing-liu@uiowa.edu
 ---
 Xingxing Liu is a 4th year Ph.D. student majoring in Electrical and Computer Engineering at University of Iowa. His research interests includes computer vision, surgical navigation, medical image processing, deep learning.
 
