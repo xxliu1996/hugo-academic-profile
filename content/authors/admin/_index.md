@@ -43,4 +43,4 @@ email: xingxing-liu@uiowa.edu
 ---
 Xingxing Liu is a 4th year Ph.D. student majoring in Electrical and Computer Engineering at University of Iowa. His research interests includes surgical navigation, medical image processing, deep learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_xingxingliu_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
