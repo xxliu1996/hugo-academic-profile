@@ -25,7 +25,7 @@ experience:
   - title: Graduate Student Intern
     company: Philips North America
     company_url: 'https://www.usa.philips.com/'
-    company_logo: companies/philips_logo
+    company_logo: philips_logo
     location: Cambridge, Massachusetts
     date_start: '2023-06-05'
     date_end: '2023-08-25'
