@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Creating new technical prototypes that solve real-world challenges in image-guided interventions.
+        * Working collaboratively with a team to experiment and validate the utility of such prototypes.
+        * Developing AI-based algorithms, analyzing data, and validating algorithms.
 
   - title: Professor of Semiconductor Physics
     company: University X
