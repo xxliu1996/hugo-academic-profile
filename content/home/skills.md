@@ -35,7 +35,7 @@ feature:
   - icon: cpp_logo
     icon_pack: custom
     name: CPP
-    description: 85
+    description: 85%
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
