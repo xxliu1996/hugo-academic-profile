@@ -16,23 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 85%
-    icon: r-project
-    icon_pack: fab
-    name: C++
-  - description: 85%
-    icon: chart-line
-    icon_pack: fas
-    name: Python
-  - description: 80%
-    icon: camera-retro
-    icon_pack: fas
-    name: Tensorflow
-  - description: 80%
-    icon: camera-retro
-    icon_pack: fas
-    name: Pytorch
-  - icon: cpp_logo
+  - icon: skills/cpp_logo
     icon_pack: custom
     name: CPP
     description: 85%
