@@ -32,6 +32,11 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Pytorch
+  - icon: cpp_logo
+    icon_pack: custom
+    name: CPP
+    description: 85
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -42,8 +47,8 @@ feature:
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-- icon: "skills/cpp_logo"
-  icon_pack: "custom"
-  name: "C++"
-  description: "85%"
+#- icon: "your-custom-icon-name"
+#  icon_pack: "custom"
+#  name: "Surfing"
+#  description: "90%"
 ---
