@@ -36,15 +36,24 @@ experience:
         * Working collaboratively with a team to experiment and validate the utility of such prototypes.
         * Developing AI-based algorithms, analyzing data, and validating algorithms.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Graduate Research Assistant
+    company: University of Iowa
+    company_url: 'https://uiowa.edu/'
+    company_logo: uiowa_logo
+    location: Iowa City, Iowa
+    date_start: '2019-08-12'
+    date_end: '2024-05-10'
+    description: |2-
+        Work on multiple research projects under supervision of Prof. Yang Liu.
 
+        Four Finished Projects:
+        * Implementation of the DL Based Spine Segmentation Model on a Xilinx FPGA Platform.
+        * Deep Learning Based Spine MRI Segmentation.
+        * Deep Learning Based Fluorescence-to-Color Image Registration.
+        * Deep Learning Based Cross-domain Spine MRI Segmentation.
+        
+        One Project is ongoing:
+        * Development of a Spine Surgical Navigation System with Surgical Tool Tracking and AR Capabilities
 design:
   columns: '2'
 ---
