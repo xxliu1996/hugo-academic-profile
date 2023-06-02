@@ -34,11 +34,11 @@ feature:
     description: 85%
   - icon: skills/qt_logo
     icon_pack: custom
-    name: Tensorflow
+    name: Qt
     description: 80%
   - icon: skills/pcl_logo
     icon_pack: custom
-    name: Tensorflow
+    name: PCL
     description: 80%
 
 # Uncomment to use emoji icons.
