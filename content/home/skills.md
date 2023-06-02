@@ -18,7 +18,19 @@ subtitle:
 feature:
   - icon: skills/cpp_logo
     icon_pack: custom
-    name: CPP
+    name: C++
+    description: 85%
+  - icon: skills/python_logo
+    icon_pack: custom
+    name: Python
+    description: 85%
+  - icon: skills/pytorch_logo
+    icon_pack: custom
+    name: Pytorch
+    description: 85%
+  - icon: skills/tensorflow_logo
+    icon_pack: custom
+    name: Tensorflow
     description: 85%
 
 # Uncomment to use emoji icons.
