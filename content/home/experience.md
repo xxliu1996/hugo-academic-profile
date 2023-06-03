@@ -74,6 +74,26 @@ experience:
     date_end: '2019-08-30'
     description: 
       Worked on a deep learning based indoor 3D object detection project under guidance and supervision of Prof. [Hock Soon Seah](https://personal.ntu.edu.sg/ashsseah/) and Dr. Li Wang.
+  
+  - title: Undergraduate Research Assistant
+    company: University of Science and Technology of China
+    company_url: 'https://en.ustc.edu.cn/'
+    company_logo: ustc_logo
+    location: Hefei, China
+    date_start: '2017-12-01'
+    date_end: '2018-06-30'
+    description: 
+      Worked on a GUI design project under supervison of Prof. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/).
+  
+  - title: Undergraduate Research Assistant
+    company: Chinese Academy of Sciences
+    company_url: 'http://english.semi.cas.cn/'
+    company_logo: cas_logo
+    location: Beijing, China
+    date_start: '2017-07-01'
+    date_end: '2017-08-30'
+    description: 
+      Worked on aligning and merging forest point clouds with MATLAB. My supervisor is Prof. [Xinwei Wang](http://lab.semi.ac.cn/yanjiusheng/contents/1323/124631.html).
 
 design:
   columns: '2'
