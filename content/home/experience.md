@@ -54,6 +54,17 @@ experience:
         
         One Project is ongoing:
         * Development of a Spine Surgical Navigation System with Surgical Tool Tracking and AR Capabilities
+
+  - title: Undergraduate Research Assistant
+    company: Peking University
+    company_url: 'https://english.pku.edu.cn/'
+    company_logo: pku_logo
+    location: Beijing, China
+    date_start: '2019-02-01'
+    date_end: '2019-05-30'
+    description: 
+      Worked on my bachelor's degree thesis project uder supersion of Prof. Yadong Mu. This project focuses on human pose estimation. In this project, I used a deep learning based framework for estimating human pose from both images and videos. 
+
 design:
   columns: '2'
 ---
