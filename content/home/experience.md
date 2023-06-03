@@ -44,7 +44,7 @@ experience:
     date_start: '2019-08-12'
     date_end: '2024-05-10'
     description: |2-
-        Work on multiple research projects under supervision of Prof. Yang Liu.
+        Work on multiple research projects under supervision of Prof. [Yang Liu](https://engineering.uiowa.edu/people/yang-liu).
 
         Four Finished Projects:
         * Implementation of the DL Based Spine Segmentation Model on a Xilinx FPGA Platform.
