@@ -63,7 +63,17 @@ experience:
     date_start: '2019-02-01'
     date_end: '2019-05-30'
     description: 
-      Worked on my bachelor's degree thesis project uder supersion of Prof. Yadong Mu. This project focuses on human pose estimation. In this project, I used a deep learning based framework for estimating human pose from both images and videos. 
+      Worked on my bachelor's degree thesis project uder supersion of Prof. [Yadong Mu](http://www.muyadong.com/). This project focuses on human pose estimation. In this project, I used a deep learning based framework for estimating human pose from both images and videos. 
+  
+  - title: Undergraduate Research Assistant
+    company: Nanyang Technological University
+    company_url: 'https://www.ntu.edu.sg/'
+    company_logo: ntu_logo
+    location: Singapore, Singapore
+    date_start: '2018-07-01'
+    date_end: '2019-08-30'
+    description: 
+      Worked on a deep learning based indoor 3D object detection project under guidance and supervision of Prof. [Hock Soon Seah](https://personal.ntu.edu.sg/ashsseah/) and Dr. Li Wang.
 
 design:
   columns: '2'
